@@ -1,3 +1,4 @@
+# textTranslate
 <p align="center">A CLI App to translate text between languages in the terminal.</p>
 <br>
 
