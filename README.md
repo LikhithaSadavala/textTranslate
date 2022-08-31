@@ -36,6 +36,3 @@ Type ```tran``` or ```tran --help``` to get started.
 
 <br>
 
-## License
-
-MIT © ***termTranslate***
