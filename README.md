@@ -1,4 +1,4 @@
-<p align="center">A CLI to translate between languages in the terminal.</p>
+<p align="center">A CLI App to translate text between languages in the terminal.</p>
 <br>
 
 <p align="center">
