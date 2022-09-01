@@ -3,7 +3,7 @@
 <br>
 
 <p align="center">
-<img src="images/demo.png" alt="demonstration" height="400" width="750" >  
+<img src="images/sample.png" alt="demonstration" height="400" width="750" >  
 </p>
 
 
